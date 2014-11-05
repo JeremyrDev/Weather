@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+		<rss version="2.0" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+			<channel>
+		
+<title>Yahoo! Weather - Bettendorf, IA</title>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Bettendorf__IA/*http://weather.yahoo.com/forecast/USIA0993_f.html</link>
+<description>Yahoo! Weather for Bettendorf, IA</description>
+<language>en-us</language>
+<lastBuildDate>Wed, 05 Nov 2014 2:50 pm CST</lastBuildDate>
+<ttl>60</ttl>
+<yweather:location city="Bettendorf" region="IA"   country="United States"/>
+<yweather:units temperature="F" distance="mi" pressure="in" speed="mph"/>
+<yweather:wind chill="58"   direction="190"   speed="16" />
+<yweather:atmosphere humidity="37"  visibility="10"  pressure="29.95"  rising="2" />
+<yweather:astronomy sunrise="6:37 am"   sunset="4:52 pm"/>
+<image>
+<title>Yahoo! Weather</title>
+<width>142</width>
+<height>18</height>
+<link>http://weather.yahoo.com</link>
+<url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+</image>
+<item>
+<title>Conditions for Bettendorf, IA at 2:50 pm CST</title>
+<geo:lat>41.56</geo:lat>
+<geo:long>-90.46</geo:long>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Bettendorf__IA/*http://weather.yahoo.com/forecast/USIA0993_f.html</link>
+<pubDate>Wed, 05 Nov 2014 2:50 pm CST</pubDate>
+<yweather:condition  text="Fair"  code="34"  temp="58"  date="Wed, 05 Nov 2014 2:50 pm CST" />
+<description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/34.gif"/><br />
+<b>Current Conditions:</b><br />
+Fair, 58 F<BR />
+<BR /><b>Forecast:</b><BR />
+Wed - Showers Early. High: 59 Low: 41<br />
+Thu - Partly Cloudy/Wind. High: 46 Low: 28<br />
+Fri - Partly Cloudy. High: 49 Low: 40<br />
+Sat - Partly Cloudy/Wind. High: 44 Low: 29<br />
+Sun - Mostly Cloudy. High: 46 Low: 36<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/Bettendorf__IA/*http://weather.yahoo.com/forecast/USIA0993_f.html">Full Forecast at Yahoo! Weather</a><BR/><BR/>
+(provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>
+]]></description>
+<yweather:forecast day="Wed" date="5 Nov 2014" low="41" high="59" text="Showers Early" code="45" />
+<yweather:forecast day="Thu" date="6 Nov 2014" low="28" high="46" text="Partly Cloudy/Wind" code="24" />
+<yweather:forecast day="Fri" date="7 Nov 2014" low="40" high="49" text="Partly Cloudy" code="30" />
+<yweather:forecast day="Sat" date="8 Nov 2014" low="29" high="44" text="Partly Cloudy/Wind" code="24" />
+<yweather:forecast day="Sun" date="9 Nov 2014" low="36" high="46" text="Mostly Cloudy" code="28" />
+<guid isPermaLink="false">USIA0993_2014_11_09_7_00_CST</guid>
+</item>
+</channel>
+</rss>
+
+<!-- fan1654.sports.bf1.yahoo.com Wed Nov  5 13:42:48 PST 2014 -->
