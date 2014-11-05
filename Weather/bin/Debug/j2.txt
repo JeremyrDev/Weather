@@ -1,0 +1,285 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "geolookup": 1
+  }
+	}
+		,	"location": {
+		"type":"CITY",
+		"country":"US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"state":"IA",
+		"city":"Bettendorf",
+		"tz_short":"CST",
+		"tz_long":"America/Chicago",
+		"lat":"41.56721878",
+		"lon":"-90.46199799",
+		"zip":"52722",
+		"magic":"1",
+		"wmo":"99999",
+		"l":"/q/zmw:52722.1.99999",
+		"requesturl":"US/IA/Bettendorf.html",
+		"wuiurl":"http://www.wunderground.com/US/IA/Bettendorf.html",
+		"nearby_weather_stations": {
+		"airport": {
+		"station": [
+		{ "city":"Davenport", "state":"IA", "country":"US", "icao":"KDVN", "lat":"41.61389160", "lon":"-90.59139252" }
+		,{ "city":"Moline", "state":"IL", "country":"US", "icao":"KMLI", "lat":"41.44828415", "lon":"-90.50752258" }
+		,{ "city":"Clinton", "state":"IA", "country":"US", "icao":"KCWI", "lat":"41.83111191", "lon":"-90.32913971" }
+		,{ "city":"Savanna", "state":"IL", "country":"US", "icao":"KSFY", "lat":"42.04544067", "lon":"-90.11009216" }
+		]
+		}
+		,
+		"pws": {
+		"station": [
+		{
+		"neighborhood":"Central Bettendorf",
+		"city":"Bettendorf",
+		"state":"IA",
+		"country":"US",
+		"id":"KIABETTE2",
+		"lat":41.533211,
+		"lon":-90.502701,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"MesoWest I-80 @ Mississippi River IL US ILDOT",
+		"city":"Rapids City",
+		"state":"IL",
+		"country":"US",
+		"id":"MIL018",
+		"lat":41.577450,
+		"lon":-90.363098,
+		"distance_km":8,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"East Central Davenport",
+		"city":"Davenport",
+		"state":"IA",
+		"country":"US",
+		"id":"KIADAVEN9",
+		"lat":41.537354,
+		"lon":-90.554108,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Southeast Davenport",
+		"city":"Davenport",
+		"state":"IA",
+		"country":"US",
+		"id":"KIADAVEN15",
+		"lat":41.535679,
+		"lon":-90.556015,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Davenport, 10th & Vine",
+		"city":"Davenport",
+		"state":"IA",
+		"country":"US",
+		"id":"KIADAVEN13",
+		"lat":41.529999,
+		"lon":-90.587502,
+		"distance_km":11,
+		"distance_mi":6
+		},
+		{
+		"neighborhood":"Ridgeview",
+		"city":"Davenport",
+		"state":"IA",
+		"country":"US",
+		"id":"KIADAVEN11",
+		"lat":41.590950,
+		"lon":-90.603302,
+		"distance_km":12,
+		"distance_mi":7
+		},
+		{
+		"neighborhood":"West Central Davenport",
+		"city":"Davenport",
+		"state":"IA",
+		"country":"US",
+		"id":"KIADAVEN5",
+		"lat":41.529770,
+		"lon":-90.613266,
+		"distance_km":13,
+		"distance_mi":7
+		},
+		{
+		"neighborhood":"Colona Weather",
+		"city":"Colona",
+		"state":"IL",
+		"country":"US",
+		"id":"KILCOLON1",
+		"lat":41.469585,
+		"lon":-90.360680,
+		"distance_km":13,
+		"distance_mi":8
+		},
+		{
+		"neighborhood":"West Hickory Street",
+		"city":"Eldridge",
+		"state":"IA",
+		"country":"US",
+		"id":"KIAELDRI2",
+		"lat":41.650406,
+		"lon":-90.594986,
+		"distance_km":14,
+		"distance_mi":8
+		},
+		{
+		"neighborhood":"Davenport, Hayes School",
+		"city":"Davenport",
+		"state":"IA",
+		"country":"US",
+		"id":"KIADAVEN14",
+		"lat":41.512032,
+		"lon":-90.624016,
+		"distance_km":14,
+		"distance_mi":8
+		},
+		{
+		"neighborhood":"",
+		"city":"Cordova",
+		"state":"IL",
+		"country":"US",
+		"id":"KILCORDO2",
+		"lat":41.668221,
+		"lon":-90.323059,
+		"distance_km":16,
+		"distance_mi":9
+		},
+		{
+		"neighborhood":"",
+		"city":"Milan",
+		"state":"IL",
+		"country":"US",
+		"id":"KILMILAN2",
+		"lat":41.423550,
+		"lon":-90.544594,
+		"distance_km":17,
+		"distance_mi":10
+		},
+		{
+		"neighborhood":"Buffalo",
+		"city":"Davenport",
+		"state":"IA",
+		"country":"US",
+		"id":"KIADAVEN12",
+		"lat":41.467201,
+		"lon":-90.688301,
+		"distance_km":21,
+		"distance_mi":13
+		},
+		{
+		"neighborhood":"PRY FARM",
+		"city":"GENESEO",
+		"state":"IL",
+		"country":"US",
+		"id":"KILGENES9",
+		"lat":41.455872,
+		"lon":-90.224510,
+		"distance_km":23,
+		"distance_mi":13
+		},
+		{
+		"neighborhood":"MesoWest LOWMR1 IA US UPR",
+		"city":"Camanche",
+		"state":"IA",
+		"country":"US",
+		"id":"MUP216",
+		"lat":41.801479,
+		"lon":-90.345322,
+		"distance_km":27,
+		"distance_mi":16
+		},
+		{
+		"neighborhood":"Country Manor",
+		"city":"Geneseo",
+		"state":"IL",
+		"country":"US",
+		"id":"KILGENES6",
+		"lat":41.468800,
+		"lon":-90.138153,
+		"distance_km":29,
+		"distance_mi":17
+		},
+		{
+		"neighborhood":"In Town",
+		"city":"Geneseo",
+		"state":"IL",
+		"country":"US",
+		"id":"KILGENES2",
+		"lat":41.441746,
+		"lon":-90.152451,
+		"distance_km":29,
+		"distance_mi":17
+		},
+		{
+		"neighborhood":"",
+		"city":"Clinton",
+		"state":"IA",
+		"country":"US",
+		"id":"KIACLINT4",
+		"lat":41.807087,
+		"lon":-90.241013,
+		"distance_km":32,
+		"distance_mi":19
+		},
+		{
+		"neighborhood":"MesoWest GRNMO1 IA US UPR",
+		"city":"Grand Mound",
+		"state":"IA",
+		"country":"US",
+		"id":"MUP122",
+		"lat":41.824860,
+		"lon":-90.649033,
+		"distance_km":32,
+		"distance_mi":19
+		},
+		{
+		"neighborhood":"JRITE Weather",
+		"city":"Erie",
+		"state":"IL",
+		"country":"US",
+		"id":"KILERIE2",
+		"lat":41.657036,
+		"lon":-90.077171,
+		"distance_km":33,
+		"distance_mi":20
+		},
+		{
+		"neighborhood":"Clinton, Chancy Park",
+		"city":"Clinton",
+		"state":"IA",
+		"country":"US",
+		"id":"KIACLINT8",
+		"lat":41.823101,
+		"lon":-90.211899,
+		"distance_km":35,
+		"distance_mi":21
+		},
+		{
+		"neighborhood":"MesoWest US-30 @ Clinton/Mississippi Rive IL US ILDOT",
+		"city":"Clinton",
+		"state":"IA",
+		"country":"US",
+		"id":"MIL012",
+		"lat":41.837700,
+		"lon":-90.179901,
+		"distance_km":38,
+		"distance_mi":22
+		}
+		]
+		}
+		}
+	}
+}

@@ -12,3 +12,14 @@ e:\users\jeremy-ssdos\documents\visual studio 2013\Projects\Weather\Weather\bin\
 E:\Users\Jeremy-SSDOS\Documents\GitHub\Weather\Weather\bin\Debug\Weather.exe.config
 E:\Users\Jeremy-SSDOS\Documents\GitHub\Weather\Weather\obj\Debug\Weather.exe
 E:\Users\Jeremy-SSDOS\Documents\GitHub\Weather\Weather\obj\Debug\Weather.pdb
+C:\Users\Jeremy\Documents\GitHub\Weather\Weather\bin\Debug\Weather.exe.config
+C:\Users\Jeremy\Documents\GitHub\Weather\Weather\obj\Debug\Weather.Form1.resources
+C:\Users\Jeremy\Documents\GitHub\Weather\Weather\obj\Debug\Weather.Properties.Resources.resources
+C:\Users\Jeremy\Documents\GitHub\Weather\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+C:\Users\Jeremy\Documents\GitHub\Weather\Weather\bin\Debug\Weather.exe
+C:\Users\Jeremy\Documents\GitHub\Weather\Weather\bin\Debug\Weather.pdb
+C:\Users\Jeremy\Documents\GitHub\Weather\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeremy\Documents\GitHub\Weather\Weather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeremy\Documents\GitHub\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\GitHub\Weather\Weather\obj\Debug\Weather.exe
+C:\Users\Jeremy\Documents\GitHub\Weather\Weather\obj\Debug\Weather.pdb
