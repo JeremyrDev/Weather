@@ -191,17 +191,6 @@
 		"distance_mi":13
 		},
 		{
-		"neighborhood":"MesoWest LOWMR1 IA US UPR",
-		"city":"Camanche",
-		"state":"IA",
-		"country":"US",
-		"id":"MUP216",
-		"lat":41.801479,
-		"lon":-90.345322,
-		"distance_km":27,
-		"distance_mi":16
-		},
-		{
 		"neighborhood":"Country Manor",
 		"city":"Geneseo",
 		"state":"IL",
@@ -264,6 +253,17 @@
 		"id":"KIACLINT8",
 		"lat":41.823101,
 		"lon":-90.211899,
+		"distance_km":35,
+		"distance_mi":21
+		},
+		{
+		"neighborhood":"Old Schoolhouse Lane",
+		"city":"Ophiem",
+		"state":"IL",
+		"country":"US",
+		"id":"KILOPHIE2",
+		"lat":41.249859,
+		"lon":-90.382042,
 		"distance_km":35,
 		"distance_mi":21
 		},
